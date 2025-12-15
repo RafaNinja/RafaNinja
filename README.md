@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Rafa Santana
+#  Hi, I'm Rafa Santana
 
 🎯 Front-end Development Student focused on building **responsive, accessible and user-centered web interfaces**.
 
@@ -6,7 +6,7 @@ Currently looking for a **Front-end Internship / Trainee position** where I can 
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40"
@@ -32,7 +32,7 @@ Currently looking for a **Front-end Internship / Trainee position** where I can 
 
 ---
 
-## 📌 Goals
+## 🚀 Goals
 - First opportunity as **Front-end Intern / Trainee**
 - Grow towards **React & modern Front-end frameworks**
 - Collaborate with experienced developers and real products
@@ -40,7 +40,7 @@ Currently looking for a **Front-end Internship / Trainee position** where I can 
 
 ---
 
-## 📫 Contact
+## 📞 Contact
 
 <div>
   <a href="https://www.linkedin.com/in/rafael-santana-223639248/)" target="_blank">
