@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Rafael Santana
+## 👋 Hi, I'm Rafa Santana
 
 🎯 Front-end Development Student focused on building **responsive, accessible and user-centered web interfaces**.
 
@@ -55,3 +55,5 @@ Currently looking for a **Front-end Internship / Trainee position** where I can 
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
+<br>
+☕ How do you like your coffee? ☕
