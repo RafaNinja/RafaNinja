@@ -55,5 +55,7 @@ Currently looking for a **Front-end Internship / Trainee position** where I can 
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
-<br>
+
+---
+
 ☕ How do you like your coffee? ☕
