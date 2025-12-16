@@ -1,4 +1,4 @@
-#  Hi, I'm Rafa Santana
+#  Hi,  I'm Rafa Santana. How do you like you coffee? ☕
 
 Front-end Development Student focused on building **responsive, accessible and user-centered web interfaces**.
 
