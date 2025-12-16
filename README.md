@@ -1,12 +1,12 @@
 #  Hi, I'm Rafa Santana
 
-🎯 Front-end Development Student focused on building **responsive, accessible and user-centered web interfaces**.
+Front-end Development Student focused on building **responsive, accessible and user-centered web interfaces**.
 
 Currently looking for a **Front-end Internship / Trainee position** where I can apply my skills, learn fast and deliver real value.
 
 ---
 
-##  Tech Stack
+## 💻 Tech Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40"
@@ -17,7 +17,10 @@ Currently looking for a **Front-end Internship / Trainee position** where I can 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-**Core skills:**
+## 💻 Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+
+## 🛠️Hard skills
 - Responsive Web Design (Mobile First)
 - Semantic HTML & modern CSS
 - JavaScript (ES6+)
@@ -25,7 +28,7 @@ Currently looking for a **Front-end Internship / Trainee position** where I can 
 
 ---
 
-## 🧩 What I’m working on
+## 🌱I’m working on
 - Building front-end projects to strengthen real-world UI development
 - Improving code quality, readability and component structure
 - Learning best practices for modern Front-end workflows
@@ -40,7 +43,7 @@ Currently looking for a **Front-end Internship / Trainee position** where I can 
 
 ---
 
-## 📞 Contact
+## 🌐 Socials
 
 <div>
   <a href="https://www.linkedin.com/in/rafael-santana-223639248/)" target="_blank">
@@ -58,4 +61,12 @@ Currently looking for a **Front-end Internship / Trainee position** where I can 
 
 ---
 
-☕ How do you like your coffee? ☕
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RafaNinja&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RafaNinja&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaNinja&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RafaNinja&icon=10&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
