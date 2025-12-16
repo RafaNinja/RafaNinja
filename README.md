@@ -4,8 +4,6 @@ Front-end Development Student focused on building **responsive, accessible and u
 
 Currently looking for a **Front-end Internship / Trainee position** where I can apply my skills, learn fast and deliver real value.
 
----
-
 ## 💻 Tech Stack
 
 <div style="display: inline_block"><br>
@@ -23,22 +21,16 @@ Currently looking for a **Front-end Internship / Trainee position** where I can 
 - JavaScript (ES6+)
 - Git & GitHub version control
 
----
-
 ## 🌱I’m working on
 - Building front-end projects to strengthen real-world UI development
 - Improving code quality, readability and component structure
 - Learning best practices for modern Front-end workflows
-
----
 
 ## 🚀 Goals
 - First opportunity as **Front-end Intern / Trainee**
 - Grow towards **React & modern Front-end frameworks**
 - Collaborate with experienced developers and real products
 - Keep Studying to evolve back-end skills
-
----
 
 ## 🌐 Socials
 
@@ -56,14 +48,13 @@ Currently looking for a **Front-end Internship / Trainee position** where I can 
   </a>
 </div>
 
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RafaNinja&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RafaNinja&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaNinja&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=RafaNinja&icon=10&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
