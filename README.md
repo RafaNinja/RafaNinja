@@ -3,21 +3,21 @@
 # Hi, I'm Rafa Santana. How do you drink your coffee??☕
 ### Front-end Development Student focused on building **responsive, accessible and user-centered web interfaces**. Currently looking for a **Front-end Internship / Trainee position** where I can apply my skills, learn fast and deliver real value.
 
-##💻 Tech Stack
+## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=,html,css,js,bootstrap)](https://skillicons.dev)
 
-##🛠️ Hard Skills
+## 🛠️ Hard Skills
 - Responsive Web Design (Mobile First)
 - Semantic HTML5 & modern CSS3
 - JavaScript (ES6+)
 - Git & GitHub version control
 
-##🌱 I’m working on
+## 🌱 I’m working on
 - Developing my very FIRST project using React + Typescript + Tailwind 😍
 - Improving code quality, readability and component structure
 - Learning best practices for modern Front-end workflows
 
-##🚀 Goals
+## 🚀 Goals
 - First opportunity as **Front-end Intern / Trainee**
 - Grow towards **React & modern Front-end frameworks**
 - Collaborate with experienced developers and real products
@@ -45,7 +45,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RafaNinja/RafaNinja/output/pacman-contribution-graph.svg">
 </picture>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=RafaNinja&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=RafaNinja&theme=gruvbox&hide_border=false)
