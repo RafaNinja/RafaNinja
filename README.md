@@ -22,7 +22,7 @@ Currently looking for a **Front-end Internship / Trainee position** where I can 
 - Git & GitHub version control
 
 ## 🌱I’m working on
-- Building front-end projects to strengthen real-world UI development
+- Developing my first project using React + Typescript + Tailwind
 - Improving code quality, readability and component structure
 - Learning best practices for modern Front-end workflows
 
