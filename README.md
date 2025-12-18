@@ -5,7 +5,7 @@ Front-end Development Student focused on building **responsive, accessible and u
 Currently looking for a **Front-end Internship / Trainee position** where I can apply my skills, learn fast and deliver real value.
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,js,bootstrap)](https://skillicons.dev)
 
 ## 🛠️Hard skills
 - Responsive Web Design (Mobile First)
@@ -14,7 +14,7 @@ Currently looking for a **Front-end Internship / Trainee position** where I can 
 - Git & GitHub version control
 
 ## 🌱I’m working on
-- Developing my first project using React + Typescript + Tailwind
+- Developing my very first project using React + Typescript + Tailwind
 - Improving code quality, readability and component structure
 - Learning best practices for modern Front-end workflows
 
