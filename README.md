@@ -47,6 +47,11 @@ Currently looking for a **Front-end Internship / Trainee position** where I can 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaNinja/RafaNinja/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RafaNinja/RafaNinja/output/github-contribution-grid-snake.svg">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaNinja/RafaNinja/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaNinja/RafaNinja/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RafaNinja/RafaNinja/output/pacman-contribution-graph.svg">
+</picture>
 
 
 # 📊 GitHub Stats:
