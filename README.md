@@ -5,15 +5,7 @@ Front-end Development Student focused on building **responsive, accessible and u
 Currently looking for a **Front-end Internship / Trainee position** where I can apply my skills, learn fast and deliver real value.
 
 ## 💻 Tech Stack
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 
 ## 🛠️Hard skills
 - Responsive Web Design (Mobile First)
