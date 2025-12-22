@@ -1,5 +1,8 @@
+<img width="206" height="206" alt="A Ninja warrior, sit in front of a computer" src="https://github.com/user-attachments/assets/1135ad6c-ba50-4f47-9137-525f578dfad4" />
 
-# Hi, I'm Rafa Santana. How do you drink your coffee??☕
+# Hi, I'm Rafa Santana. How do you drink your coffee?? <img width="153" height="153" alt="coffee cup" src="https://github.com/user-attachments/assets/c59ed39e-1e4b-499d-ae1f-4cc9732fa4cb" />
+
+
 ### Front-end Development Student focused on building **responsive, accessible and user-centered web interfaces**. Currently looking for a **Front-end Internship / Trainee position** where I can apply my skills, learn fast and deliver real value.
 
 ## 💻 Tech Stack
