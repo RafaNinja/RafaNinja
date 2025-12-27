@@ -42,6 +42,7 @@ How do you drink your coffee??
   </a>
 </div>
 
+![snake animation](https://github.com/<rafaninja>/<rafaninja>/blob/output/github-contribution-grid-snake2.svg)
 
 
 ## 📊 GitHub Stats:
