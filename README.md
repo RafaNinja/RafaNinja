@@ -15,12 +15,13 @@
 - Responsive Web Design (Mobile First)
 - Semantic HTML5 & modern CSS3
 - JavaScript (ES6+)
-- Git & GitHub version control
+
 
 ## 🌱 I’m working on
-- Developing my very FIRST project using React + Typescript + Tailwind 😍
+- Developing my very first project using React + Typescript + Tailwind. K
+- Using and studying modern jsx
+- Improving skills in Git & GitHub version control
 - Improving code quality, readability and component structure
-- Learning best practices for modern Front-end workflows
 
 ## 🚀 Goals
 - First opportunity as **Front-end Intern / Trainee**
