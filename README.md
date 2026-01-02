@@ -18,7 +18,7 @@
 
 
 ## 🌱 I’m working on
-- Developing my very first project using React + Typescript + Tailwind. K
+- Developing my very first project using React + Typescript + Tailwind.
 - Using and studying modern jsx
 - Improving skills in Git & GitHub version control
 - Improving code quality, readability and component structure
