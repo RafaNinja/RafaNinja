@@ -5,7 +5,7 @@
 
 *How do you drink your coffee??* 
 
-<img width="20%"  alt="A Ninja warrior, sit in front of a computer" src="https://github.com/user-attachments/assets/1135ad6c-ba50-4f47-9137-525f578dfad4" />
+<img width="30%"  alt="A Ninja warrior, sit in front of a computer" src="https://github.com/user-attachments/assets/1135ad6c-ba50-4f47-9137-525f578dfad4" />
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=,html,css,js,bootstrap)](https://skillicons.dev)
