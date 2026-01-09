@@ -1,12 +1,10 @@
- 
-
-# Hey there, I'm Rafa Santana. 
+ # Hey there, I'm Rafa Santana. 
 ## Front-end Development Student focused on building responsive, accessible and user-centered web interfaces. Currently looking for a Front-end Internship / Trainee position where I can apply my skills, learn fast and deliver real value.
 
 *How do you drink your coffee??* 
 
 
-<img width="25%" height="25%" alt="ninja escritorio gif" src="https://github.com/user-attachments/assets/7982562f-f125-4797-a404-1b8da6908d8d" />
+<img width="30%" height="30%" alt="ninja escritorio gif" src="https://github.com/user-attachments/assets/7982562f-f125-4797-a404-1b8da6908d8d" />
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=,html,css,js,bootstrap)](https://skillicons.dev)
@@ -19,7 +17,7 @@
 
 ## 🌱 I’m working on
 - Developing my very first project using React + Typescript + Tailwind.
-- Using and studying modern jsx
+- Using and studying modern JSX
 - Improving skills in Git & GitHub version control
 - Improving code quality, readability and component structure
 
