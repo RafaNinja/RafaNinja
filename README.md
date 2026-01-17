@@ -6,6 +6,8 @@
 
 <img width="30%" height="30%" alt="ninja escritorio gif" src="https://github.com/user-attachments/assets/7982562f-f125-4797-a404-1b8da6908d8d" />
 
+---
+
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=,html,css,js,bootstrap)](https://skillicons.dev)
 
