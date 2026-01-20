@@ -18,10 +18,9 @@
 
 
 ## 🌱 I’m working on
-- Developing my very first project using React + Typescript + Tailwind.
+- Developing first project using React + Typescript + Tailwind.
 - Using and studying modern JSX
 - Improving skills in Git & GitHub version control
-- Improving code quality, readability and component structure
 
 ## 🚀 Goals
 - First opportunity as **Front-end Intern / Trainee**
