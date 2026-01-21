@@ -9,7 +9,7 @@
 ---
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,js,ts)](https://skillicons.dev)
 
 ## 🛠️ Hard Skills
 - Responsive Web Design (Mobile First)
@@ -55,4 +55,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaNinja&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=RafaNinja&icon=10&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
