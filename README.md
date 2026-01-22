@@ -9,7 +9,7 @@
 ---
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,js)](https://skillicons.dev)
 
 ## 🛠️ Hard Skills
 - Responsive Web Design (Mobile First)
