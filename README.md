@@ -1,10 +1,12 @@
+
+ <img width="30%" height="30%" alt="hey ninja 16 bits" src="https://github.com/user-attachments/assets/892189a0-3132-426b-b2de-943d4f678fc6" />
+
  # Hey there, I'm Rafa Santana. 
-## Front-end Development Student focused on building responsive, accessible and user-centered web interfaces. Currently looking for a Front-end Internship / Trainee position where I can apply my skills, learn fast and deliver real value.
+### Front-end Development Student focused on building responsive, accessible and user-centered web interfaces. Currently looking for a Front-end Internship / Trainee position where I can apply my skills, learn fast and deliver real value.
 
-*How do you drink your coffee??* 
+<img width="30%" height="30%" alt="ninja coffe 16 bits" src="https://github.com/user-attachments/assets/b5b7928f-265e-4ea6-bdb5-e82e14de5deb" /> 
 
-
-<img width="30%" height="30%" alt="ninja escritorio gif" src="https://github.com/user-attachments/assets/7982562f-f125-4797-a404-1b8da6908d8d" />
+### *How do you drink your coffee??* 
 
 ---
 
