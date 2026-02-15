@@ -133,7 +133,7 @@ Leveling up every day.
 </p>
 
 <h2 align="center">
-⚡ Powered by Coffee & Chakra ⚡
+⚡ Powered by Coffee ⚡
 </h2>
 
 <p align="center">
