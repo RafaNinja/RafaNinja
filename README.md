@@ -1,12 +1,30 @@
 <!-- HEADER -->
+<div align="center">
 
-<p align="center">
-  <img src="URL_APRESENTACAO" width="420px"/>
+  <div style="
+    display: inline-block;
+    padding: 12px;
+    background-color: #1d2021;
+    border: 4px solid #3c3836;
+    box-shadow: 0 0 0 4px #665c54;
+  ">
+    
+  <img 
+      width="180px"
+      alt="Kanji shinobi com enso em tinta"
+      src="https://github.com/user-attachments/assets/594e1e4a-8013-4fcd-bb28-4446bbd033f1"
+      style="border-radius: 50%; image-rendering: pixelated;"
+  />
+    
+  </div>
+
+</div>
+
 </p>
 
 <h1 align="center">🥷 Rafa Santana</h1>
 <p align="center">
-Front-end Shinobi • Level 01 Developer • UI Focused
+Front-end Developer | HTML • CSS • JavaScript | Focused on Clean, Accessible UI
 </p>
 
 <p align="center">
@@ -24,16 +42,17 @@ Front-end Shinobi • Level 01 Developer • UI Focused
 </td>
 <td width="60%">
 
-## 🏯 Character Profile
+## 🏯 Professional Profile
 
-Class: Front-end Developer (Student)
-Rank: Genin
-Build: HTML • CSS • JavaScript
-Focus: Responsive & Accessible UI
-Status: Seeking First Mission (Intern/Trainee)
+Front-end Developer in training with strong focus on
+semantic HTML, modern CSS and responsive interfaces.
 
-Building clean, semantic and responsive interfaces  
-with discipline and long-term progression mindset.
+Currently building solid foundations in JavaScript and
+component-based architecture, aiming to contribute to
+real-world projects as an Intern or Junior Developer.
+
+Committed to clean code, accessibility and continuous learning.
+
 
 </td>
 </tr>
@@ -41,30 +60,6 @@ with discipline and long-term progression mindset.
 
 ---
 
-<!-- CAFÉ -->
-
-<table width="100%">
-<tr>
-<td width="40%" align="center">
-<img width="320px"  alt="ninja coffe 16 bits" src="https://github.com/user-attachments/assets/dc3a7876-0c44-41ce-aee9-932f1db9b216" />
-</td>
-<td width="60%">
-
-## ☕ Coffee Ritual
-
-Energy Source: Coffee
-Chakra Level: Stable
-Debug Mode: ON
-
-
-How do you drink your coffee?  
-Because every clean commit begins with caffeine focus.
-
-</td>
-</tr>
-</table>
-
----
 
 <!-- CODANDO -->
 
@@ -77,14 +72,25 @@ Because every clean commit begins with caffeine focus.
 </td>
 <td width="60%">
 
-## ⚔️ Active Arsenal
+## ⚔️ Technical Skills
+
 [![My Skills](https://skillicons.dev/icons?i=,html,css,js)](https://skillicons.dev)
 
-🗡️ Responsive Web Design  
-🗡️ Semantic HTML5  
-🗡️ Modern CSS (Flexbox • Grid)  
-🗡️ JavaScript ES6+  
-🗡️ Git & GitHub Workflow  
+Core:
+• HTML5 (Semantic & Accessible Markup)
+• CSS3 (Flexbox, Grid, Responsive Design)
+• JavaScript (ES6+)
+
+Workflow:
+• Git & GitHub
+• Version Control
+• Basic Deployment
+
+Currently Learning:
+• Flutter
+• Clean Code Principles
+• Component Architecture
+
 
 </td>
 </tr>
@@ -103,14 +109,13 @@ Because every clean commit begins with caffeine focus.
 </td>
 <td width="60%">
 
-## 📜 Training Arc
+## 📜 Current Development Focus
 
-Current Quest:
-→ Flutter
-→ Clean Code Practices
-→ Component Architecture
+• Improving JavaScript fundamentals  
+• Studying scalable component architecture  
+• Applying Clean Code practices in personal projects  
 
-
+Consistently building and refining real-world UI projects.
 
 Leveling up every day.
 
@@ -119,6 +124,7 @@ Leveling up every day.
 </table>
 
 ---
+
 
 <!-- FRASE FINAL -->
 
@@ -136,7 +142,10 @@ Leveling up every day.
 
 ---
 
-## 🏯 Guild Hall
+## 🤝 Connect With Me
+
+Open to internship and junior opportunities.
+
 
 <div>
   <a href="https://www.linkedin.com/in/rafael-santana-223639248/)" target="_blank">
