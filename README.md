@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<div align="center">
+<div align="center" >
 
   <div style="
     display: inline-block;
@@ -25,10 +25,6 @@
 <h1 align="center">🥷 Rafa Santana</h1>
 <p align="center">
 Front-end Developer | HTML • CSS • JavaScript | Focused on Clean, Accessible UI
-</p>
-
-<p align="center">
-████████████████████████████████
 </p>
 
 ---
@@ -125,41 +121,22 @@ Leveling up every day.
 
 ---
 
-
-<!-- FRASE FINAL -->
-
-<p align="center">
-  <img width="320px" alt="ninja thumbs" src="https://github.com/user-attachments/assets/9de6f136-3dff-4e9c-88e6-c32c0f26273e" />
-</p>
-
-<h2 align="center">
-⚡ Powered by Coffee ⚡
-</h2>
-
-<p align="center">
-████████████████████████████████
-</p>
-
----
-
-## 🤝 Connect With Me
-
-Open to internship and junior opportunities.
-
-
 <div>
-  <a href="https://www.linkedin.com/in/rafael-santana-223639248/)" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:ninj.df91@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://instagram.com/rafa.ninjaa" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+  
+  ## 🤝 Connect With Me
+  Open to internship and junior opportunities.
+  <div>
+    <a href="https://www.linkedin.com/in/rafael-santana-223639248/)" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:ninj.df91@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://instagram.com/rafa.ninjaa" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+  </div>
 </div>
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaNinja/RafaNinja/output/github-contribution-grid-snake-dark.svg">
@@ -168,9 +145,20 @@ Open to internship and junior opportunities.
 </picture>
 
 ## 📊 GitHub Stats:
-
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=RafaNinja&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=RafaNinja&theme=gruvbox&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaNinja&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=RafaNinja&icon=10&color=8)](https://visitcount.itsvg.in)
 
+</div>
+<!-- FRASE FINAL -->
+
+<p align="center">
+  <img width="320px" alt="ninja thumbs" src="https://github.com/user-attachments/assets/9de6f136-3dff-4e9c-88e6-c32c0f26273e" />
+</p>
+
+<h2 align="center">
+⚡☕ Powered by Coffee ☕⚡
+</h2>
