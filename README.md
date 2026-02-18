@@ -100,7 +100,8 @@ Currently Learning:
 <tr>
 <td width="40%" align="center">
 
-<img width="320px" alt="ninja studying 2 16 bits" src="https://github.com/user-attachments/assets/95cb31ea-6ed2-43a3-96f2-ef33f416101a" />
+<img width="320px" alt="ninja coffee 16 bit coding" src="https://github.com/user-attachments/assets/d1091d9e-7271-4eed-a862-1674c0fa8a11" />
+
 
 </td>
 <td width="60%">
@@ -156,7 +157,9 @@ Leveling up every day.
 <!-- FRASE FINAL -->
 
 <p align="center">
-  <img width="320px" alt="ninja thumbs" src="https://github.com/user-attachments/assets/9de6f136-3dff-4e9c-88e6-c32c0f26273e" />
+
+<img width="320px" alt="Ninja no bosque com café" src="https://github.com/user-attachments/assets/c26db21b-9a0d-4508-a6a1-a25e2f573671" />
+
 </p>
 
 <h2 align="center">
