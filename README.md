@@ -23,9 +23,9 @@
 </p>
 
 <h1 align="center">🥷 Rafa Santana</h1>
-<p align="center">
+<h3 align="center">
 Front-end Developer | HTML • CSS • JavaScript | Focused on Clean, Accessible UI
-</p>
+</h3>
 
 ---
 
